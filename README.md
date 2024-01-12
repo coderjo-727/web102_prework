@@ -24,10 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/pxHhTRd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/pxHhTRd"  ><a href="//imgur.com/a/pxHhTRd">Web102 prework - J.H</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+![walkthrough gif](https://github.com/coderjo-727/web102_prework/blob/fffe6bf7ee514ee9c9110b68d369078b5c564fbf/Walkthrough.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
 <!-- Recommended tools:
